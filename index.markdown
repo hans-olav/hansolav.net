@@ -12,5 +12,9 @@ Before that, I was at Microsoft's database systems group, where I worked on vari
 At some point I might add more content here, but for now, here are some relevant links:
 
 [My LinkedIn profile](https://www.linkedin.com/in/hans-olav-norheim-a3810b9/)
+
 [A blog post I wrote on hot patching SQL Server](https://techcommunity.microsoft.com/t5/azure-sql-blog/hot-patching-sql-server-engine-in-azure-sql-database/ba-p/849700)
+
 [My master's thesis on Query Optimization](./blog/content/binary/MasterReport.pdf)
+
+[Graph algorithms in T-SQL I had fun writing](./sql/graphs.html)
