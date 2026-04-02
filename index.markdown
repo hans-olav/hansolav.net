@@ -5,11 +5,9 @@ redirect_from:
 ---
 
 ## Welcome 
-This is the web page of Hans Olav Norheim. I'm a software engineer specializing in database systems. I'm originally from Norway, but currently reside in Athens, GA, USA where [my wife](https://www.jaclynsaunders.com/) is a professor at the University of Georgia.
+This is the web page of Hans Olav Norheim. I'm a software engineer specializing in database systems. I'm currently a Tech Lead in Lakebase at Databricks. Before that, I was at Microsoft's database systems group, where I worked on various parts of the SQL Server database engine and Azure SQL Database in various capacities as Tech Lead, Engineering Manager and Group Engineering Manager.
 
-I'm currently a Tech Lead in Lakebase at Databricks.
-
-Before that, I was at Microsoft's database systems group, where I worked on various parts of the SQL Server database engine and Azure SQL Database in various capacities as Tech Lead, Engineering Manager and Group Engineering Manager.
+I'm originally from Norway, but currently reside in Athens, GA, USA where [my wife](https://www.jaclynsaunders.com/) is a professor at the University of Georgia.
 
 You can reach me at hansonorheim *at * gmail.com.
 
